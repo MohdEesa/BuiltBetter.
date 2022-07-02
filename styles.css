@@ -1,0 +1,84 @@
+
+.title{
+    padding-top: 154px;
+    font-size: 95px;
+}
+.para{
+    width: 80%;
+    text-align: center;
+    padding-left: 210px;
+}
+#menu li{
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+}
+#menu li a{
+    color: black;
+    display: block;
+}
+#menu li a:hover{
+    background-color: red;
+    text-decoration: none;
+}
+#banner{
+    background-image: url(images/paul-weaver-nWidMEQsnAQ-unsplash.jpg);
+    background-size: cover;
+    height: 650px;
+}
+.heading    {
+    text-align: center;
+    font-size: 15px;
+}
+.heading h1{
+    font-size: 75px;
+}
+.services{
+    text-align: center;
+    padding: 30px;
+}
+.service-button{
+    padding-bottom: 30px;
+}
+.S-HEAD{
+        padding: 25px;
+    text-align: center; 
+}
+.icon{
+    color: darkorange;
+}
+.icon:hover{
+    color: red;
+}
+.about{
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 150px;
+    color: white;
+    background-color:	#FFA500;
+}
+.picture{
+    height: 400px;
+    width: 460px;
+    border-radius: 25%;
+}
+.our-furniture h2{
+    color: 	#FFA500;
+}
+.F-Cdiv{
+    text-align: center;
+}
+.sec-abt{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    background-color: darkorange; 
+    height: 250px;
+}
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+
+}
+
+
